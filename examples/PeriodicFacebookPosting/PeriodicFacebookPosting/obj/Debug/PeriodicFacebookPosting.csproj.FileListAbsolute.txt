@@ -1,0 +1,11 @@
+c:\users\mwi\documents\visual studio 2015\Projects\PeriodicFacebookPosting\PeriodicFacebookPosting\bin\Debug\PeriodicFacebookPosting.exe.config
+c:\users\mwi\documents\visual studio 2015\Projects\PeriodicFacebookPosting\PeriodicFacebookPosting\bin\Debug\PeriodicFacebookPosting.exe
+c:\users\mwi\documents\visual studio 2015\Projects\PeriodicFacebookPosting\PeriodicFacebookPosting\bin\Debug\PeriodicFacebookPosting.pdb
+c:\users\mwi\documents\visual studio 2015\Projects\PeriodicFacebookPosting\PeriodicFacebookPosting\bin\Debug\WebDriver.dll
+c:\users\mwi\documents\visual studio 2015\Projects\PeriodicFacebookPosting\PeriodicFacebookPosting\bin\Debug\WebDriver.xml
+c:\users\mwi\documents\visual studio 2015\Projects\PeriodicFacebookPosting\PeriodicFacebookPosting\obj\Debug\PeriodicFacebookPosting.csprojResolveAssemblyReference.cache
+c:\users\mwi\documents\visual studio 2015\Projects\PeriodicFacebookPosting\PeriodicFacebookPosting\obj\Debug\PeriodicFacebookPosting.Form1.resources
+c:\users\mwi\documents\visual studio 2015\Projects\PeriodicFacebookPosting\PeriodicFacebookPosting\obj\Debug\PeriodicFacebookPosting.Properties.Resources.resources
+c:\users\mwi\documents\visual studio 2015\Projects\PeriodicFacebookPosting\PeriodicFacebookPosting\obj\Debug\PeriodicFacebookPosting.csproj.GenerateResource.Cache
+c:\users\mwi\documents\visual studio 2015\Projects\PeriodicFacebookPosting\PeriodicFacebookPosting\obj\Debug\PeriodicFacebookPosting.exe
+c:\users\mwi\documents\visual studio 2015\Projects\PeriodicFacebookPosting\PeriodicFacebookPosting\obj\Debug\PeriodicFacebookPosting.pdb
