@@ -35,6 +35,7 @@ crawler.LogOut();
 
 ### NOTES ABOUT THE CODE
   - The algorithms in this repository weren't made to be fast(some of them may take up to 10/20 seconds)! They were made to work!
+  - If you have fast internet you can decrease the waiting times from **WaitTimes.cs**
   - Selenium requires try-catch in order to check if an element exists(that slows down even more).
   - Selenium opens an "automated software driven" window.
   - If you are going to post emojis you shouldn't choose a ChromeDriver because it doesn't allow emojis!
